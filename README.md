@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Sai Aneesh Ganti👋
 
-<!--
-**Saianeesh2003/Saianeesh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build execution-focused agentic AI systems — not demos.
 
-Here are some ideas to get you started:
+### What I work on
+- Agentic workflows (planning → reasoning → execution)
+- RAG pipelines with vector databases
+- Tool-calling, fallback logic
+- Shipping MVPs fast and iterating from failures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python • LangChain • Claude / OpenAI • Vector DBs • Git • FastAPI (learning)
+
+Pinned projects below show real, deployed systems.
+
