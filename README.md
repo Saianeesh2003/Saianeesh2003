@@ -9,7 +9,7 @@ I build execution-focused agentic AI systems — not demos.
 - Shipping MVPs fast and iterating from failures
 
 ### Tech
-Python • LangChain • Claude / OpenAI • Vector DBs • Git • FastAPI (learning)
+Python • LangGraph • Claude / OpenAI • Vector DBs • Git 
 
 Pinned projects below show real, deployed systems.
 
